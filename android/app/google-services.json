@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419540803823",
+    "project_id": "klizards-6909a",
+    "storage_bucket": "klizards-6909a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419540803823:android:424bebe69acd5fbeb03b1a",
+        "android_client_info": {
+          "package_name": "com.app.klizards"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9wtxyNRdjt2YYZla2ENBM0V3strphTzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
